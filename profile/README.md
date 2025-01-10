@@ -5,9 +5,6 @@
 - 👥 [Facebook](https://www.facebook.com/unballunb)
 - 📌 [Site](unball.github.io)
 
-### 📚 Repositórios de estudo
-- 📍 [Estudos sobre Git](https://github.com/unball/estudos-git)
-
 ### ✨ Padrões e Nomenclaturas Git
 - 🚀[Nomenclaturas Git](https://github.com/unball/.github/blob/main/profile/NomenclaturaGit.md)
   
